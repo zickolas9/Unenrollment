@@ -1,8 +1,6 @@
-This method terminates MCPS Enterprise from your Chromebook.
-
-
+UNENROLLMENT METHDOD
 Requirements:
-A pc of course
+PC
 Python
 A Enrolled Chromebook
 ======================
@@ -52,8 +50,7 @@ Congratulations you have unenrolled your chromebook!
 Note: 
 The school cannot block this what so ever
 but if this does somehow get patched pm me
-and ill update it
-
-
+and ill update it, this method is kinda a "fuck you" to the ones who 
+allowed this monitoring garbage have fun lol
 
 Best Regards. 🫶🏽
